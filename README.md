@@ -1,4 +1,2 @@
 # MI Project - Webpage
-This repository hosts a small-scale webpage project, mirroring the MI website's design and functionality.
- Explore the responsive navigation, product showcases, and a user-friendly contact form. Clone the repository, follow simple steps,
- and experience a condensed version of the MI website on your local machine.
+This repository hosts a duplicated version of the Xiaomi website. Please note that this is for personal use only, and any commercial application may violate Xiaomi's terms of service. Replace all placeholder content with your own and ensure compliance with Xiaomi's branding guidelines. Update API keys and credentials for proper functionality. Testing is crucial to guarantee a seamless user experience. Remember to check for updates in the original repository regularly. Respect Xiaomi's intellectual property and licensing agreements. For specific configurations, refer to Xiaomi's documentation. Enjoy exploring and customizing your version of the Xiaomi website!
